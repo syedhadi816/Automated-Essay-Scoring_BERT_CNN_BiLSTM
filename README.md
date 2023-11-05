@@ -11,6 +11,7 @@ to apply the same model to evaluate essays written in response to different prom
 matters. This limitation has led to the development of models that can better adapt to new
 contexts and essay types, thus improving their utility and applicability in various educational
 environments.
+
 In this study, we investigate the performance of two AES models—a classification model and
 a regression model—by leveraging state-of-the-art natural language processing techniques,
 including the use of BERT embeddings for essays. BERT provides the model with a more
@@ -23,6 +24,7 @@ can potentially aid transfer learning for cross-prompt essay scoring. By using a
 representation of essay quality, the classification model may be more adaptable to different
 prompts and domains, as it focuses on general features of good and bad essays, rather than
 attempting to predict precise scores.
+
 In this paper, we propose an approach that combines deep learning models with pretrained
 models. Specifically, we employ BERT embeddings as input to a neural network architecture
 that includes a convolutional neural network (CNN) for sentence embeddings and a
