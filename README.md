@@ -1,5 +1,8 @@
 # A Context Aware Neural Network for Prompt Independent Automated Essay Scoring 
 
+![image](https://github.com/syedhadi816/Automated-Essay-Scoring_BERT_CNN_BiLSTM/assets/53166976/68e8afc7-cc41-4ee6-9d8e-bda320d14243)
+
+
 One of the primary concerns in AES is the lack of portability across different domains and
 prompts. Most existing AES systems are trained on specific essay prompts, making it difficult
 to apply the same model to evaluate essays written in response to different prompts or subject
